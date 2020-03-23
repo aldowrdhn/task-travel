@@ -1,0 +1,23 @@
+/* HEADER AND FOOTER CSS START  */
+
+.head {
+    background-color: #e0dfdf;
+    padding: 1px 0px;
+    color: grey;
+    font-size: 14px
+}
+
+.icon {
+    padding: 0px 10px;
+    color: #303030;
+}
+
+.link {
+    color: #6eb8be;
+}
+
+.link:hover {
+    color: #ffb1b1;
+}
+
+/* HEADER AND FOOTER CSS END */

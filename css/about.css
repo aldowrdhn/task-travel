@@ -24,8 +24,8 @@
 
 .h1 {
     background-image: url(/img/baech2.jpg);
-    width: 1300px;
-    height: 500px;
+    background-size: cover;
+    width: 100%;
     text-align: center;
     padding-top: 280px;
 }

@@ -23,6 +23,6 @@
 
 /* HEADER AND FOOTER CSS END */
 
-.display-1 input{
-    width: 150px;
+.checked{
+    color:orange;
 }

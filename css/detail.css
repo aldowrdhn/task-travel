@@ -21,3 +21,37 @@
 }
 
 /* HEADER AND FOOTER CSS END */
+
+.tengah{
+    /* margin-top: 10px; */
+    background-image: url(../img/th.jpg);
+    height: 400px; 
+    padding-left: 0px;
+    display:flex;
+   
+}
+
+.tengah h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: cornsilk;
+   
+}
+
+.form button{
+    background-color: rgb(64, 97, 134);
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgray;
+    border-radius: 8px;
+    
+}
+
+
+}
+
+.container button{
+    background-color: rgb(64, 97, 134);
+    border-radius: 8px;
+}
+

@@ -21,3 +21,39 @@
 }
 
 /* HEADER AND FOOTER CSS END */
+
+.h1 {
+    background-image: url(/img/baech2.jpg);
+    background-size: cover;
+    width: 100%;
+    text-align: center;
+    padding-top: 280px;
+}
+
+h2 {
+    padding-inline-start: 4cm;
+    padding-top: 1.5cm;
+}
+
+.ourstory {
+    padding-top: 50px;
+    padding-left: 6cm;
+    padding-right: 6cm;
+    word-spacing: 6px;
+
+}
+
+.row .cols-6 {
+    padding-left: 4cm;
+    padding-bottom: 2cm;
+}
+
+.row-icon {
+    padding-left: 6cm;
+}
+
+.card-deck {
+
+    padding-top: 2cm;
+
+}
